@@ -10,7 +10,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.Pane;
 import library.Marquee;
-
+ 
 public class FXMLMainController implements Initializable {
     @FXML 
     private Button btnExitApp;
